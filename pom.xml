@@ -15,19 +15,19 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-autoconfigure</artifactId>
-			<version>4.0.7</version>
+			<version>4.1.0</version>
 		</dependency>
 		<!--https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-			<version>4.0.7</version>
+			<version>4.1.0</version>
 		</dependency>
 		<!--https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-freemarker -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-freemarker</artifactId>
-			<version>4.0.7</version>
+			<version>4.1.0</version>
 		</dependency>
 		<!--https://mvnrepository.com/artifact/jakarta.servlet/jakarta.servlet-api -->
 		<dependency>
@@ -41,7 +41,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<version>4.0.7</version>
+				<version>4.1.0</version>
 				<executions>
 					<execution>
 						<goals>
